@@ -6,5 +6,5 @@ The code is for the analysis of fiber photometry data in the latest version of t
 For using:
 1) Downloaded and install Rstudio. 
 2) Open the three R files and install all the related packages. 
-3) Fill the information of the data file in 'FP_DataInfo.xlsx'. The file name should end with .csv. 
+3) Fill the information of the data file in 'FP_DataInfo.xlsx'. The filename column should end with .csv. 
 4) Click 'Run APP' in the upper R corner to run the program. 

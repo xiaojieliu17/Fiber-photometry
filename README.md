@@ -1,5 +1,5 @@
-This code is associated with preprint the article from Liu et al "Epac2 in midbrain dopamine neurons contributes to cocaine reinforcement via enhancement of dopamine release" https://doi.org/10.7554/eLife.80747
-Article status: Published 2022 Aug 22
+This code is associated with the article from Liu et al "Epac2 in midbrain dopamine neurons contributes to cocaine reinforcement via enhancement of dopamine release".
+Article status: Published 2022 Aug 22, https://doi.org/10.7554/eLife.80747
 The code is for the analysis of fiber photometry data in the latest version of the article.
 
 Ti yse:
